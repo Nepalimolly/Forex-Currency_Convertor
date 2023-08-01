@@ -9,6 +9,7 @@ Answer the following questions below:
 * Indentation is very important in python while in javacript you use {} braces to refer to a code block
 * In python all variables are constants you dont have let, var, const like you do in javascript
 * Python usually will raise more errors that javascript will, for example when you try to retreive information and its not there Javascript will return none while pythin will raise an error
+* Javascript dosen thave the concept of immutable or mutable but Python does
 
 - Given a dictionary like `{"a": 1, "b": 2}`: , list two ways you
   can try to get a missing key (like "c") _without_ your programming
